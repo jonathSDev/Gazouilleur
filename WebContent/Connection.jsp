@@ -19,7 +19,7 @@
 	</div>
 
 	<div data-role="content" data-theme="b">
-		<p></p>	
+		<p>LA MODIFE ENCORE ET ENCORE</p>	
 		<div class="ui-grid-b">
 			<div class="ui-block-a">
 			</div>
